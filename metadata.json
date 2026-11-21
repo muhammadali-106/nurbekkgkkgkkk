@@ -1,0 +1,8 @@
+{
+  "name": "UZBEK GAMES",
+  "description": "O'zbek tilidagi zamonaviy 3D onlayn o'yinlar platformasi — barcha yosh toifalari uchun 40 dan ortiq o'yinlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
